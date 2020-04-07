@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1> Unsplash Image Search App</h1>
+      <h1>Image Search App</h1>
       <form onSubmit={handleSubmit}>
             <input
             className="input"
